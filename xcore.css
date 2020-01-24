@@ -172,10 +172,6 @@ a {
 	overflow: visible
 }
 
-.guildInner-3DSoA4 a svg g,.guildSeparator-1X4GQ1,.welcomeMessage-3_Mcht .itemContainer-WiE19S,.wordmark-2iDDfm svg path {
-	display: none
-}
-
 .bda-slist .bda-footer a {
 	color: inherit
 }
@@ -2063,17 +2059,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 	background: 0 0!important
 }
 
-.wordmark-2iDDfm,.wordmark-2iDDfm svg,.wrapper-2NJDcI {
-	background-color: transparent
-}
-
 .wrapper-2NJDcI {
 	color: hsla(0,100%,100%,.5)
-}
-
-.wordmark-2iDDfm {
-	opacity: .9;
-	pointer-events: all
 }
 
 .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item,.side-8zPYf6 .item-PXvHYJ {
